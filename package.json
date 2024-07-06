@@ -1,5 +1,5 @@
 {
-  "name": "@alinflorin/n8n-nodes-example-node",
+  "name": "@alinflorin/n8n-nodes-azure-media",
   "version": "0.0.1",
   "private": false,
   "publishConfig": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alinflorin/n8n-nodes-example-node.git"
+    "url": "git+https://github.com/alinflorin/n8n-nodes-azure-media.git"
   },
   "engines": {
     "node": ">=18.10",
